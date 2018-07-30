@@ -1,8 +1,8 @@
-# Anguar6Seed
+# Anguar 6 Cordova Seed
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
-#Prerequisite
+# Prerequisite
 
 NodeJS Version : v8.11.3
 
@@ -12,7 +12,7 @@ Angular CLI: 6.0.8
 
 Cordova version : 8.0.0
 
-##Steps
+## Steps
 
 After cloning repository, don't forget to `npm install`.
 
